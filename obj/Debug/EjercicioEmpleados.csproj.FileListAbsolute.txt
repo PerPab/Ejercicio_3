@@ -1,0 +1,8 @@
+D:\2-ISTEA\POO\ejercicios colecciones\EjercicioEmpleados\bin\Debug\EjercicioEmpleados.exe.config
+D:\2-ISTEA\POO\ejercicios colecciones\EjercicioEmpleados\bin\Debug\EjercicioEmpleados.exe
+D:\2-ISTEA\POO\ejercicios colecciones\EjercicioEmpleados\bin\Debug\EjercicioEmpleados.pdb
+D:\2-ISTEA\POO\ejercicios colecciones\EjercicioEmpleados\obj\Debug\EjercicioEmpleados.csproj.AssemblyReference.cache
+D:\2-ISTEA\POO\ejercicios colecciones\EjercicioEmpleados\obj\Debug\EjercicioEmpleados.csproj.SuggestedBindingRedirects.cache
+D:\2-ISTEA\POO\ejercicios colecciones\EjercicioEmpleados\obj\Debug\EjercicioEmpleados.csproj.CoreCompileInputs.cache
+D:\2-ISTEA\POO\ejercicios colecciones\EjercicioEmpleados\obj\Debug\EjercicioEmpleados.exe
+D:\2-ISTEA\POO\ejercicios colecciones\EjercicioEmpleados\obj\Debug\EjercicioEmpleados.pdb
